@@ -1,0 +1,23 @@
+h1 {
+    margin: 50px 0;
+}
+
+.form {
+    margin-bottom: 50px;
+}
+
+.todo:hover {
+    background: #fbfbfb;
+}
+
+.todo__icon {
+    cursor: pointer;
+}
+
+.todo__label {
+    margin: 0 15px;
+}
+
+.todo .fa-trash-alt:hover {
+    font-weight: 900;
+}

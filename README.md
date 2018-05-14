@@ -1,6 +1,10 @@
-# Todolist
+# Realogy Tech Assessment
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+A simple "To-Do List" application built with [Angular (v5.2.10)](https://angular.io/docs), [Bootstrap (v4.1)](https://getbootstrap.com/docs/4.1/getting-started/introduction/), and [Async local storage for Angular (v0.7.1)](https://www.npmjs.com/package/@ngx-pwa/local-storage).
+
+The requirements were to build a simple "To-Do List" application using Angular. I chose Bootstrap mainly for the responsive grid and basic styling. I utilized the local storage library to handle the differences in browsers and APIs.
+
+**Note:** This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
 
